@@ -1,6 +1,6 @@
 ## EE 573 Pattern Recognition - Project 5
 
-In this project, PNN (w/ and w/o voting scheme) and KNN are applied to a dataset. Before the classification algorithms, principle component analysis (PCA) and multiple discriminant analysis (MDA) are applied to the dataset.
+This project employs the use of both PNN (with and without voting scheme) and KNN algorithms to analyze a given dataset. Prior to utilizing these classification techniques, the dataset is preprocessed through the application of principle component analysis (PCA) and multiple discriminant analysis (MDA).
 
 
 ### How to run
